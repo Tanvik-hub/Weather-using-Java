@@ -22,6 +22,6 @@ The Weather Application is a Java program that provides users with current weath
 
 
 **Conclusion:**
-The Weather Application provides a simple and efficient way to access current weather information for any location. Its integration with the Weatherbit API ensures reliable and up-to-date weather data for users.
+The Weather Application provides a simple and efficient way to access current weather information for any location. Its integration with the Weatherbit API ensures reliable and up-to-date weather data for users.It is a terminal based project.
 
  
