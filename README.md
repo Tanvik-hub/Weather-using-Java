@@ -1,4 +1,4 @@
-# Weather using Java
+# Weather using Java🌧🌞
 
 **Description:**
 The Weather Application is a Java program that provides users with current weather information for a specified location. It uses the Weatherbit API to fetch weather data such as temperature, weather condition, humidity, wind speed, and timezone. Users can input a location and choose the specific weather information they want to view.The Weather Application provides a convenient and efficient way for users to access current weather information. With its use of the Weatherbit API and user-friendly interface, the application offers a reliable solution for staying informed about weather conditions worldwide.
